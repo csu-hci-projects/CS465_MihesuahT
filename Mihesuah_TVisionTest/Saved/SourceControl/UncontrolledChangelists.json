@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_FocusPoint.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoint.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VisualFieldTest.umap",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/IntroVisualFieldTest.umap",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/NewBlueprint.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Images/VisionTestIntro.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Images/VisionTestIntro_Mat.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoints/BP_BlinkPoint.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoints/BP_BlinkPoint1.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoints/BP_BlinkPoint2.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoints/BP_BlinkPoint3.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoints/BP_BlinkPoint4.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoints/BP_BlinkPoint5.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoints/BP_BlinkPoint6.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoints/BP_BlinkPoint7.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoints/BP_BlinkPoint8.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPoints/BP_BlinkPoint9.uasset",
+				"C:/Users/tosh4/OneDrive/Documents/Unreal Projects/Mihesuah_TVisionTest/Content/VRTemplate/Blueprints/BP_BlinkPointExample.uasset"
+			]
+		}
+	]
+}
