@@ -1,9 +1,15 @@
 # CS465_MihesuahT
 
-4/20/25
-Checkpoint 2 README File for group MihesuahT
+5/9/25
+Final Project README File for the GitHuB repo. Group MihesuahT
 
 Group has 1 member, Tanner Mihesuah
+
+The Main paper, videos, sources, and other files are provided in the dropbox on canvas per instructors requirements.
+
+----
+Previous Checkpoints
+
 
 Youtube Links
 Presentation on Checkpoint 2: [https://www.youtube.com/watch?v=G7PATQgp8KM]
